@@ -81,9 +81,9 @@ You'll find projects ranging from web applications and backend systems to UI/UX 
 
 ## 📫 Let's Connect
 
-💼 **LinkedIn:** *(Add your LinkedIn)*
+💼 **LinkedIn:** *https://www.linkedin.com/in/umuhoza-henriette-11946238b/*
 
-📧 **Email:** *(Add your email if you'd like)*
+📧 **Email:** *uhenriette88@gmail.com*
 
 ---
 
