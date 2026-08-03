@@ -1,25 +1,91 @@
-# Hi, I'm Henriette 👋
+# 👋 Hi, I'm Umuhoza Ishimwe Henriette
 
-I build **AI-powered systems, smart devices, and modern web applications** focused on solving real-world problems.
+### 💻 Software Engineering Student at Rwanda Coding Academy
 
-## 🚀 Projects
-🦟 AI Mosquito Control System – Smart mosquito trapping and monitoring technology  
-🌞 Smart Solar Optimization – Improving solar efficiency with intelligent monitoring  
-👶 Baby Guardian – Smart baby monitoring concept  
-✅ To-Do API – REST API built with Node.js and Express
+I'm passionate about building technology that solves real problems.
 
-## 🛠 Tech Stack
-JavaScript • React (learning) • Node.js • Python • HTML • CSS • Figma
+What started as curiosity has grown into a love for creating modern web applications, designing intuitive user experiences, and exploring how AI can make everyday life better. Every project I work on teaches me something new, and I'm always looking for the next challenge to help me grow.
 
-## 📚 Currently Learning
-- React
-- UI/UX design with Figma
-- Backend development with Node.js
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henriette-Umuhoza&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriette-Umuhoza&layout=compact)
+At the moment, I'm focused on becoming a well-rounded software engineer—one project, one bug, and one lesson at a time.
 
 ---
-⭐ Interested in building technology that combines **AI, smart hardware, and modern software**.
+
+## 🌱 Currently Learning
+
+* ⚛️ React
+* 🟢 Node.js & Express
+* 🗄️ MySQL & MongoDB
+* 🎨 UI/UX Design with Figma
+* 🔗 REST APIs
+* 🌍 Git & GitHub Best Practices
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* C
+* HTML
+* CSS
+
+**Frontend**
+
+* React
+* HTML5
+* CSS3
+* JavaScript
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Databases**
+
+* MySQL
+* MongoDB
+
+**Design**
+
+* Figma
+* Canva
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 🚀 What You'll Find Here
+
+This GitHub is where I document my journey as I grow into a software engineer.
+
+You'll find projects ranging from web applications and backend systems to UI/UX designs and ideas that explore AI and emerging technologies. Some are finished, some are still evolving—but every repository represents a step forward in my learning journey.
+
+---
+
+## 🎯 My Goals
+
+* Build software that creates real impact
+* Keep learning and improving every day
+* Contribute to meaningful projects
+* Explore AI and modern web technologies
+* Grow into a developer who builds with purpose
+
+---
+
+## 📫 Let's Connect
+
+💼 **LinkedIn:** *(Add your LinkedIn)*
+
+📧 **Email:** *(Add your email if you'd like)*
+
+---
+
+> *"Every expert was once a beginner who kept building."* 🚀
+
